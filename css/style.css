@@ -1,0 +1,15 @@
+body {
+    background-color:#f7f7f7;
+}
+
+.main{
+    max-width: 400px !important;
+    /* margin: 0 auto; */
+    /* background-color: rebeccapurple; */
+    font-size: 15px;
+}
+
+.main .logo {
+    width: 75%;
+    margin: 25px auto 10px;
+}
